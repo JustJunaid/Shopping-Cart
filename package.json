@@ -1,0 +1,28 @@
+{
+  "name": "Shopping-Cart",
+  "version": "1.0.0",
+  "description": "In this repo, i have planned to build a basic shopping site, let's see where it goes!! In node.js, express.js as it's web framework.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustJunaid/Shopping-Cart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustJunaid/Shopping-Cart/issues"
+  },
+  "homepage": "https://github.com/JustJunaid/Shopping-Cart#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
